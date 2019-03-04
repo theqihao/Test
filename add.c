@@ -1,6 +1,6 @@
 #include <stidio>
 int main() {
-    printf("hahha\n");
+    printf("hahhaqihao\n");
     return 0;
 }
 
